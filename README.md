@@ -16,10 +16,10 @@ Hi! I’m **Deepak**, passionate about building **aviation-focused software syst
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, C++, JavaScript  
-- **Frameworks**: Streamlit, Flask, Tkinter, PandasAI  
-- **Visualization**: Plotly, Folium, PyVista, CesiumJS  
-- **Hardware**: Raspberry Pi, HackRF SDR, LoRa, NVIDIA Jetson  
+- **Languages**: Python, C, JavaScript  
+- **Frameworks**: Streamlit,  Tkinter, PandasAI  
+- **Visualization**: Plotly, Folium, matplotlib  
+- **Hardware**: Raspberry Pi, Pico W, LoRa(basics)  
 - **Aviation Data**: OpenSky, Open-Meteo, ICAO GIS, NOTAM APIs  
 
 ---
